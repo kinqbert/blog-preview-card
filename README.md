@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [LINK](https://your-solution-url.com)
+- Solution URL: [LINK](https://www.frontendmentor.io/solutions/responsive-solution-via-html-css-bem-and-flexboxes-pGZBzzEAxT)
 - Live Site URL: [LINK](https://kinqbert.github.io/blog-preview-card/)
 
 ## My process
