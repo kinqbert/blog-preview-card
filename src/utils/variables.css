@@ -1,0 +1,10 @@
+:root {
+  /* colors */
+  --color__black: #111111;
+  --color__pure-white: #FFFFFF;
+  --color__yellow: #F4D04E;
+  --color__grey: #7F7F7F;
+
+  /* widths */
+  --width__mobile: 375px;
+}
