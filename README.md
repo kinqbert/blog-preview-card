@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [LINK](https://your-solution-url.com)
 - Live Site URL: [LINK](https://kinqbert.github.io/blog-preview-card/)
 
 ## My process
